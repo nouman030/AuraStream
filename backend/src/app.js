@@ -8,7 +8,7 @@ import playlistRouter from "./routers/playlist.route.js";
 const app = express();
 
 app.use(cors({
-    origin: process.env.CORS_ORIGIN || "http://localhost:5173", // Replace with your frontend URL or allow dynamic origin
+    origin: true, // Dynamically mirror the request origin (fixes Vercel CORS issues instantly)
     credentials: true // Crucial for allowing cookies to be set across origins
 }));
 app.use(express.json());
