@@ -1,0 +1,24 @@
+{
+    "success": true,
+    "music": {
+        "user": {
+            "_id": "69c9d4bc768327bbaf21aafc",
+            "username": "Test_222usewqr_021",
+            "email": "teswq2t122221@exmple.com",
+            "password": "$2b$10$AW.Qb3AI2l9MomVFOZJYduG7FKNbrvaOpW2SIwRDw4d5RJirH0vyG",
+            "role": "user",
+            "createdAt": "2026-03-30T01:41:16.722Z",
+            "updatedAt": "2026-03-30T01:41:16.722Z",
+            "__v": 0
+        },
+        "title": "My_first_song",
+        "artist": "nouman",
+        "album": "my_test_king",
+        "genre": "hiphop",
+        "cloudinary_url": "https://res.cloudinary.com/dbxrv2sq1/video/upload/v1774864738/music/dcivfgovd7dpnmm1qeux.mp3",
+        "cloudinary_id": "music/dcivfgovd7dpnmm1qeux",
+        "duration": 3.52,
+        "_id": "69ca49637c396fe1b2419c8d",
+        "__v": 0
+    }
+}
